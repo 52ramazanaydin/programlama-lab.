@@ -1,4 +1,4 @@
-#random sayı üreten fonksiyon.
+#random sayı üreten fonksiyon
 import random
 random.random()
 s=random.randint(1,100)   #random.randint(min,max)
