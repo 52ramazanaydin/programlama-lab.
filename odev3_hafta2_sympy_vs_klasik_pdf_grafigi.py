@@ -1,6 +1,6 @@
 #Ramazan AYDIN
 #180401040
-#https://github.com/52ramazanaydin/programlama-lab./new/master
+#GİTHUB LİNKİ: https://github.com/52ramazanaydin/programlama-lab./blob/master/odev3_hafta2_sympy_vs_klasik_pdf_grafigi.py
 from sympy import Symbol, Piecewise ,pprint
 import sympy as sym
 import sympy.plotting as syp
